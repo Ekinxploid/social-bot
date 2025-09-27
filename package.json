@@ -1,0 +1,17 @@
+{
+  "name": "discord-social-bot",
+  "version": "1.0.0",
+  "description": "Discord bot with coin system, chest events, ship cards, and tweet generation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["discord", "bot", "coin", "social"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "axios": "^1.6.2"
+  }
+}

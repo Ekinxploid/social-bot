@@ -1,0 +1,35 @@
+{
+  "bot": {
+    "token": "",
+    "prefix": ".",
+    "activity": {
+      "name": "made by realimsofgod ",
+      "type": "WATCHING"
+    }
+  },
+  "coin": {
+    "chestReward": 5000,
+    "chestInterval": 180000,
+    "chestTimeout": 15000,
+    "chestImage": "https://imgur.com/a/OA0Piv5",
+    "targetChannelId": "1384093221415817298"
+  },
+  "apis": {
+    "ship": "https://rudsdev.xyz/api/ship",
+    "tweet": "https://rudsdev.xyz/api/tweet",
+    "shipBackground": "https://rudsdev.xyz/shipcard2.jpg"
+  },
+  "colors": {
+    "primary": "#0099ff",
+    "success": "#00ff00",
+    "error": "#ff0000",
+    "warning": "#ffaa00",
+    "coin": "#ffd700",
+    "ship": "#ff69b4",
+    "tweet": "#1da1f2"
+  },
+  "embeds": {
+    "footer": "Bot aktif!",
+    "timestamp": true
+  }
+}
